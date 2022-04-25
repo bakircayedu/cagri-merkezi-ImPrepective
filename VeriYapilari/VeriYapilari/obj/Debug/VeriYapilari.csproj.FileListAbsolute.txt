@@ -1,0 +1,10 @@
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.exe.config
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.exe
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\bin\Debug\VeriYapilari.pdb
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.csproj.AssemblyReference.cache
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.Form1.resources
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.Properties.Resources.resources
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.csproj.GenerateResource.cache
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.exe
+C:\Users\meaky\source\repos\VeriYapilari\VeriYapilari\obj\Debug\VeriYapilari.pdb
